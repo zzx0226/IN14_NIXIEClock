@@ -2,6 +2,8 @@
 
 整个项目基于 @silentcedar 的项目制作 https://github.com/silentcedar/NixieTubeClock
 
+<img src="https://github.com/zzx0226/IN14_NIXIEClock/Picture/1.JPG" style="width: 50%; height: 50%"/>
+
 ![image](https://github.com/zzx0226/IN14_NIXIEClock/Picture/1.JPG)
 
 ![image](https://github.com/zzx0226/IN14_NIXIEClock/Picture/2.JPG)
