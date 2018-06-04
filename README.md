@@ -3,12 +3,8 @@
 整个项目基于 @silentcedar 的项目制作 https://github.com/silentcedar/NixieTubeClock
 
 <img src="https://github.com/zzx0226/IN14_NIXIEClock/blob/master/Picture/1.png" style="width: 50%; height: 50%"/>
-
-![image](https://github.com/zzx0226/IN14_NIXIEClock/blob/master/Picture/1.png)
-
-![image](https://github.com/zzx0226/IN14_NIXIEClock/Picture/2.png)
-
-![image](https://github.com/zzx0226/IN14_NIXIEClock/Picture/3.png)
+<img src="https://github.com/zzx0226/IN14_NIXIEClock/blob/master/Picture/2.png" style="width: 50%; height: 50%"/>
+<img src="https://github.com/zzx0226/IN14_NIXIEClock/blob/master/Picture/3.png" style="width: 50%; height: 50%"/>
 
 在此基础上增加/改变了：
 
