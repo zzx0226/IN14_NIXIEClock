@@ -2,11 +2,11 @@
 
 整个项目基于 @silentcedar 的项目制作 https://github.com/silentcedar/NixieTubeClock
 
-![image](https://github.com/zzx0226/IN14_NIXIEClock/Picture/1.jpg)
+![image](https://github.com/zzx0226/IN14_NIXIEClock/Picture/1.JPG)
 
-![image](https://github.com/zzx0226/IN14_NIXIEClock/Picture/2.jpg)
+![image](https://github.com/zzx0226/IN14_NIXIEClock/Picture/2.JPG)
 
-![image](https://github.com/zzx0226/IN14_NIXIEClock/Picture/3.jpg)
+![image](https://github.com/zzx0226/IN14_NIXIEClock/Picture/3.JPG)
 
 在此基础上增加/改变了：
 
